@@ -1,8 +1,8 @@
-# Simple calculator win forms
+# Simple calculator
 
 A simple calculator made with C# and Windows Forms.
 
-See also [Classic calculator win forms](https://github.com/jaroshevskii/classic-calculator-win-forms).
+See also [Classic calculator](https://github.com/jaroshevskii/classic-calculator-win-forms).
 
 ## Screenshots
 
